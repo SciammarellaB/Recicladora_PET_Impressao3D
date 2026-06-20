@@ -14,7 +14,7 @@ com carretel adaptado.
 
 ## Teste de montagem
 
-[![Teste de montagem do motor e carretel no prototipo 02](../../midia-readme/thumb-prototipo-02-teste-motor-carretel.png)](videos/prototipo-02-teste-motor-carretel.mp4)
+[![Teste de montagem do motor e carretel no prototipo 02](../../midia-readme/thumb-prototipo-02-teste-motor-carretel.png)](https://youtube.com/shorts/MNewDyZXh2g)
 
 Este registro mostra o teste logo apos a montagem do conjunto do motor e a
 fixacao do carretel nos suportes. A etapa serviu para conferir se o conjunto
@@ -23,7 +23,7 @@ integracao completa com o restante do equipamento.
 
 ## Funcionamento correto
 
-[![Prototipo 02 funcionando corretamente](../../midia-readme/thumb-prototipo-02-funcionando.png)](videos/prototipo-02-funcionando-corretamente.mp4)
+[![Prototipo 02 funcionando corretamente](../../midia-readme/thumb-prototipo-02-funcionando.png)](https://www.youtube.com/watch?v=FplmZ49YgME)
 
 Este video registra o prototipo 02 ja funcionando corretamente, sem ajustes ou
 detalhes pendentes para a operacao. Nesta fase, o equipamento conseguia executar

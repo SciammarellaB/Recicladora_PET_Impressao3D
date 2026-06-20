@@ -11,7 +11,7 @@ extrusão e deposição.
 
 ## Primeiro teste de impressão
 
-[![Vídeo da primeira impressão com filamento PET](../../midia-readme/thumb-primeira-impressao-pet.png)](videos/primeira-impressao-filamento-pet.mp4)
+[![Vídeo da primeira impressão com filamento PET](../../midia-readme/thumb-primeira-impressao-pet.png)](https://www.youtube.com/shorts/xxXg9N6lQYA)
 
 Este vídeo registra a primeira vez em que o filamento PET foi usado em uma
 impressão 3D. O teste serviu para observar:
@@ -37,7 +37,7 @@ Durante os testes de impressão, os principais pontos de atenção foram:
 
 ## Teste com PET colorido
 
-[![Teste de impressão de Benchy com PET de garrafa colorida](../../midia-readme/thumb-benchy-pet-garrafa-colorida.png)](videos/benchy-pet-garrafa-colorida.mp4)
+[![Teste de impressão de Benchy com PET de garrafa colorida](../../midia-readme/thumb-benchy-pet-garrafa-colorida.png)](https://www.youtube.com/watch?v=Nncd09i17XM)
 
 Este teste utilizou a impressão de um barquinho Benchy para avaliar o
 comportamento de garrafas PET coloridas. O objetivo era observar se o material

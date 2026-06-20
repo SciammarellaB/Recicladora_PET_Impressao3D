@@ -9,6 +9,7 @@ FDM.
 ## Índice
 
 - [Sobre o projeto](#sobre-o-projeto)
+- [Vídeos do projeto](#vídeos-do-projeto)
 - [Motivação](#motivação)
 - [Prova de conceito manual](#prova-de-conceito-manual)
 - [Como o processo funciona](#como-o-processo-funciona)
@@ -20,6 +21,11 @@ FDM.
 - [Controle por G-code](#controle-por-g-code)
 - [Estrutura do repositório](#estrutura-do-repositório)
 - [Observações técnicas](#observações-técnicas)
+
+## Vídeos do projeto
+
+Os vídeos do projeto estão reunidos em [docs/videos-youtube.md](docs/videos-youtube.md),
+com os links do YouTube publicados como vídeos não listados.
 
 ## Sobre o projeto
 
@@ -101,7 +107,7 @@ Ender 3 Pro.
 Nesta versão, o equipamento chegou a funcionar de forma estável: bastava iniciar
 o G-code e aguardar o processo de extrusão/bobinamento terminar.
 
-[![Vídeo do protótipo 01 funcionando corretamente](midia-readme/thumb-prototipo-01-funcionando.png)](hardware/prototipo-01/videos/prototipo-01-funcionando-corretamente.mp4)
+[![Vídeo do protótipo 01 funcionando corretamente](midia-readme/thumb-prototipo-01-funcionando.png)](https://youtube.com/shorts/Gr8xRWNqr9U)
 
 Mais fotos e detalhes estão em [hardware/prototipo-01](hardware/prototipo-01/).
 
@@ -116,12 +122,12 @@ bobinamento.
 Após montar o conjunto do motor e fixar o carretel nos suportes, foi feito um
 teste para verificar o alinhamento e o giro do conjunto mecânico.
 
-[![Teste de montagem do motor e carretel no protótipo 02](midia-readme/thumb-prototipo-02-teste-motor-carretel.png)](hardware/prototipo-02/videos/prototipo-02-teste-motor-carretel.mp4)
+[![Teste de montagem do motor e carretel no protótipo 02](midia-readme/thumb-prototipo-02-teste-motor-carretel.png)](https://youtube.com/shorts/MNewDyZXh2g)
 
 Com a montagem validada, o protótipo 2 passou a funcionar corretamente, sem
 ajustes pendentes para a operação normal.
 
-[![Vídeo do protótipo 02 funcionando corretamente](midia-readme/thumb-prototipo-02-funcionando.png)](hardware/prototipo-02/videos/prototipo-02-funcionando-corretamente.mp4)
+[![Vídeo do protótipo 02 funcionando corretamente](midia-readme/thumb-prototipo-02-funcionando.png)](https://www.youtube.com/watch?v=FplmZ49YgME)
 
 Mais fotos e detalhes estão em [hardware/prototipo-02](hardware/prototipo-02/).
 
@@ -194,13 +200,13 @@ O primeiro teste de impressão também ajudou a entender quais ajustes seriam
 necessários na impressora e no fatiador, como temperatura, fluxo, velocidade e
 estabilidade da extrusão.
 
-[![Vídeo da primeira impressão com filamento PET](midia-readme/thumb-primeira-impressao-pet.png)](testes/03-impressao-3d/videos/primeira-impressao-filamento-pet.mp4)
+[![Vídeo da primeira impressão com filamento PET](midia-readme/thumb-primeira-impressao-pet.png)](https://www.youtube.com/shorts/xxXg9N6lQYA)
 
 Também foram feitos testes com garrafas PET coloridas. Um dos ensaios utilizou
 um barquinho Benchy para observar se o material ficaria translúcido e se a cor da
 garrafa causaria alguma diferença durante a impressão.
 
-[![Teste de Benchy com PET de garrafa colorida](midia-readme/thumb-benchy-pet-garrafa-colorida.png)](testes/03-impressao-3d/videos/benchy-pet-garrafa-colorida.mp4)
+[![Teste de Benchy com PET de garrafa colorida](midia-readme/thumb-benchy-pet-garrafa-colorida.png)](https://www.youtube.com/watch?v=Nncd09i17XM)
 
 A documentação desta etapa está em
 [testes/03-impressao-3d](testes/03-impressao-3d/).

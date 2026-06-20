@@ -17,7 +17,7 @@ um sistema de carretel adaptado para bobinar o filamento produzido.
 
 ## Video de funcionamento
 
-[![Prototipo 01 funcionando corretamente](../../midia-readme/thumb-prototipo-01-funcionando.png)](videos/prototipo-01-funcionando-corretamente.mp4)
+[![Prototipo 01 funcionando corretamente](../../midia-readme/thumb-prototipo-01-funcionando.png)](https://youtube.com/shorts/Gr8xRWNqr9U)
 
 Neste registro, o prototipo 01 ja estava operando de forma estavel. A recicladora
 conseguia executar o processo normalmente: iniciar o G-code, aguardar o aquecimento
@@ -54,5 +54,4 @@ carretel, a transmissao por engrenagens e a operacao por G-code.
 ## Subpastas
 
 - `fotos/`: registros fotograficos do prototipo montado.
-- `videos/`: videos de funcionamento, quando disponiveis.
 - `montagem/`: instrucoes e imagens das etapas de montagem dos subconjuntos.
