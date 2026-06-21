@@ -58,4 +58,3 @@ carretel, a transmissao por engrenagens e a operacao por G-code.
 ## Subpastas
 
 - `fotos/`: registros fotograficos do prototipo montado.
-- `montagem/`: instrucoes e imagens das etapas de montagem dos subconjuntos.

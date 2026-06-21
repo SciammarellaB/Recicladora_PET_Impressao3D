@@ -53,3 +53,8 @@ controle eletronico e bobinamento.
 Essa versao tambem ajuda a documentar a continuidade do desenvolvimento do
 projeto, mostrando que a recicladora passou por iteracoes de montagem e ajuste
 apos o primeiro prototipo.
+
+## Subpastas
+
+- `fotos/`: registros fotograficos do prototipo montado.
+- `montagem/`: instrucoes e imagens das etapas de montagem dos subconjuntos.

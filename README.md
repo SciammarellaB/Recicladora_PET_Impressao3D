@@ -171,22 +171,22 @@ Os registros de aplicação do PET reciclado estão organizados em
 O motor NEMA 17 é fixado em um suporte impresso em 3D. A engrenagem do motor é
 instalada no eixo para transmitir movimento ao sistema de bobinamento.
 
-![Montagem do motor NEMA 17](hardware/prototipo-01/montagem/motor-nema-17/suporte-motor-nema17-montagem.png)
+![Montagem do motor NEMA 17](hardware/prototipo-02/montagem/motor-nema-17/suporte-motor-nema17-montagem.png)
 
 Detalhes da montagem estão em
-[hardware/prototipo-01/montagem/motor-nema-17](hardware/prototipo-01/montagem/motor-nema-17/).
+[hardware/prototipo-02/montagem/motor-nema-17](hardware/prototipo-02/montagem/motor-nema-17/).
 
 ### Carretel
 
 O carretel é reaproveitado de filamento 3D e adaptado com arruelas impressas,
 tubo de PVC e uma coroa dentada impressa em 3D.
 
-![Montagem do eixo do carretel](hardware/prototipo-01/montagem/carretel/montagem-eixo-carretel.png)
+![Montagem do eixo do carretel](hardware/prototipo-02/montagem/carretel/montagem-eixo-carretel.png)
 
-![Fixação da coroa dentada no carretel](hardware/prototipo-01/montagem/carretel/fixacao-coroa-dentada-carretel.png)
+![Fixação da coroa dentada no carretel](hardware/prototipo-02/montagem/carretel/fixacao-coroa-dentada-carretel.png)
 
 Detalhes da preparação estão em
-[hardware/prototipo-01/montagem/carretel](hardware/prototipo-01/montagem/carretel/).
+[hardware/prototipo-02/montagem/carretel](hardware/prototipo-02/montagem/carretel/).
 
 ## Extrusão e controle dimensional
 
