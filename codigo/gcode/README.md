@@ -43,6 +43,9 @@ Comandos principais:
   temporariamente pelo proprio G-code.
 - A selecao entre 230 C, 235 C e 240 C permite testar o comportamento do PET em
   diferentes condicoes de fusao e conformacao.
+- Nos testes documentados na monografia, 230 C apresentou a condicao mais
+  estavel, com melhor acabamento superficial, aspecto mais cristalino e formato
+  dimensional mais uniforme.
 - Os blocos repetidos de `G1 E190 F125` ajudam a evitar problemas de firmware
   relacionados a comandos de extrusao muito longos.
 - Os ajustes de temperatura e velocidade devem ser acompanhados por medicoes do

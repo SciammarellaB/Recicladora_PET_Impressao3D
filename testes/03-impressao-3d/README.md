@@ -59,8 +59,6 @@ necessário compensar a quantidade de material no fatiador. Nos testes do projet
 isso levou ao aumento do fluxo e à redução da velocidade volumétrica máxima para
 evitar falta ou excesso de material durante a impressão.
 
-Os parâmetros detalhados devem ser registrados em:
+Os parâmetros detalhados estão registrados em:
 
-```text
-testes/03-impressao-3d/parametros/
-```
+[parametros](parametros/).

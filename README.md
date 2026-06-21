@@ -17,8 +17,10 @@ FDM.
 - [Preparação do PET](#preparação-do-pet)
 - [Peças impressas em 3D](#peças-impressas-em-3d)
 - [Montagem dos subconjuntos](#montagem-dos-subconjuntos)
+- [Extrusão e controle dimensional](#extrusão-e-controle-dimensional)
 - [Primeira impressão com PET](#primeira-impressão-com-pet)
 - [Controle por G-code](#controle-por-g-code)
+- [Anexos e referências](#anexos-e-referências)
 - [Estrutura do repositório](#estrutura-do-repositório)
 - [Observações técnicas](#observações-técnicas)
 
@@ -72,17 +74,6 @@ A documentação desta etapa está em
 [testes/00-prova-conceito-manual](testes/00-prova-conceito-manual/).
 
 ## Como o processo funciona
-
-```mermaid
-flowchart LR
-    A["Garrafa PET pós-consumo"] --> B["Limpeza e retirada do rótulo"]
-    B --> C["Remoção do fundo"]
-    C --> D["Corte em fita de PET"]
-    D --> E["Extrusão no hotend"]
-    E --> F["Bobinamento no carretel"]
-    F --> G["Filamento reciclado"]
-    G --> H["Impressão 3D"]
-```
 
 O processo começa com a seleção e preparação das garrafas. Depois, o PET é
 cortado em fitas, aquecido no hotend, conformado em formato de filamento e
@@ -164,6 +155,11 @@ A documentação das peças está em [modelos-3d](modelos-3d/). A tabela editáv
 com nomes e quantidades está em
 [dados/tabelas/pecas-impressas-3d.csv](dados/tabelas/pecas-impressas-3d.csv).
 
+Os registros de aplicação do PET reciclado estão organizados em
+[pecas-impressas/testes](pecas-impressas/testes/),
+[pecas-impressas/funcionais](pecas-impressas/funcionais/) e
+[pecas-impressas/reposicao-prototipo](pecas-impressas/reposicao-prototipo/).
+
 ## Montagem dos subconjuntos
 
 ### Motor NEMA 17
@@ -188,6 +184,21 @@ tubo de PVC e uma coroa dentada impressa em 3D.
 Detalhes da preparação estão em
 [hardware/prototipo-01/montagem/carretel](hardware/prototipo-01/montagem/carretel/).
 
+## Extrusão e controle dimensional
+
+As fitas de PET são aquecidas no hotend e conduzidas até o carretel de
+armazenamento. Nos testes, a temperatura de extrusão variou entre 230 °C e
+240 °C, com melhor estabilidade observada em 230 °C.
+
+Após o resfriamento, o filamento é medido com paquímetro em diferentes pontos,
+tendo como referência o diâmetro nominal de 1,75 mm. Como o filamento é formado
+a partir de uma fita PET dobrada e conformada pelo calor, ele pode apresentar
+interior oco, ovalização e pequenas variações dimensionais.
+
+A documentação desta etapa está em
+[testes/02-extrusao](testes/02-extrusao/). A organização dos dados de medição
+está em [dados/medicoes](dados/medicoes/).
+
 ## Primeira impressão com PET
 
 Depois dos primeiros testes de geração manual do filamento, o material foi levado
@@ -203,8 +214,9 @@ Também foram feitos testes com garrafas PET coloridas. Um dos ensaios utilizou
 um barquinho Benchy para observar se o material ficaria translúcido e se a cor da
 garrafa causaria alguma diferença durante a impressão.
 
-A documentação desta etapa está em
-[testes/03-impressao-3d](testes/03-impressao-3d/).
+A documentação desta etapa está em [testes/03-impressao-3d](testes/03-impressao-3d/).
+Os parâmetros de fatiamento usados com PET reciclado estão em
+[testes/03-impressao-3d/parametros](testes/03-impressao-3d/parametros/).
 
 ## Controle por G-code
 
@@ -227,6 +239,14 @@ Os G-codes utilizados no projeto trabalham com três temperaturas de extrusão:
 A documentação desta parte está em [codigo/gcode](codigo/gcode/) e a nota sobre
 firmware original está em
 [codigo/firmware-original-creality.md](codigo/firmware-original-creality.md).
+
+## Anexos e referências
+
+Os links auxiliares da monografia, incluindo cortador de garrafa PET, suporte
+para bobinas de tiras e hotend E3D V6, estão reunidos em [anexos](anexos/).
+
+As referências bibliográficas usadas como base teórica e técnica estão em
+[docs/referencias](docs/referencias/).
 
 ## Estrutura do repositório
 
