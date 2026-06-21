@@ -85,8 +85,8 @@ impressora 3D, exigindo ajustes próprios de temperatura, fluxo e velocidade.
 ### Protótipo 01
 
 O primeiro protótipo validou a montagem inicial do sistema de bobinamento, a
-transmissão por engrenagens e o reaproveitamento da eletrônica original de uma
-Ender 3 Pro.
+transmissão por engrenagens e o controle eletrônico usando RAMPS 1.4 com Arduino
+Mega, LCD compatível com RAMPS e fonte ATX reaproveitada de computador.
 
 ![Protótipo 01 da recicladora PET](hardware/prototipo-01/fotos/prototipo-01-vista-frontal-carretel.jpg)
 
@@ -224,8 +224,9 @@ Os parâmetros de fatiamento usados com PET reciclado estão em
 
 ## Controle por G-code
 
-A recicladora utiliza a placa principal e o firmware original de uma Ender 3 Pro.
-Não há firmware customizado gravado na placa.
+Na versão com eletrônica reaproveitada da Ender 3 Pro, a recicladora utiliza a
+placa principal e o firmware original da impressora. Não há firmware customizado
+gravado na placa.
 
 Os parâmetros necessários para a operação são definidos temporariamente no início
 dos arquivos G-code. Isso inclui temperatura do hotend, extrusão relativa,
