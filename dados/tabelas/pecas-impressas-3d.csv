@@ -1,9 +1,10 @@
-numero,peca,quantidade,observacao
-1,Suporte do motor NEMA,1,Suporte estrutural para fixacao do motor NEMA.
-2,Trava do filamento,1,Peca de apoio/travamento do caminho do material.
-3,Engrenagem do motor,1,Peca em cinza impressa com PET reciclado apos quebras nas primeiras versoes em PLA.
-4,Arruelas adaptadoras,2,Arruelas para ajuste e adaptacao mecanica do conjunto.
-5,Engrenagem do carretel,1,Engrenagem grande do sistema de movimentacao do carretel.
-6,Espacador fino,1,Espacador para alinhamento do conjunto.
-7,Suporte do carretel,2,Suportes estruturais para o carretel de bobinamento.
-8,Espacador largo,1,Espacador maior para alinhamento do conjunto.
+numero,peca,arquivo_stl,quantidade,observacao
+1,Suporte do motor NEMA,modelos-3d/stl/suporte-motor-nema17.stl,1,Suporte estrutural para fixacao do motor NEMA.
+2,Trava do filamento,modelos-3d/stl/trava-filamento.stl,1,Peca de apoio/travamento do caminho do material.
+3,Engrenagem do motor NEMA 17,modelos-3d/stl/engrenagem-motor-nema17.stl,1,Peca em cinza impressa com PET reciclado apos quebras nas primeiras versoes em PLA.
+4,Arruelas adaptadoras,modelos-3d/stl/arruela-adaptadora.stl,2,Arruelas para ajuste e adaptacao mecanica do conjunto.
+5,Engrenagem do carretel,modelos-3d/stl/engrenagem-carretel.stl,1,Engrenagem grande do sistema de movimentacao do carretel.
+6,Espacador fino,modelos-3d/stl/espacador-fino.stl,1,Espacador para alinhamento do conjunto.
+7,Suporte do carretel bobinador,modelos-3d/stl/suporte-carretel-bobinador.stl,1,Suporte estrutural do carretel que enrola o filamento produzido.
+8,Suporte do carretel da fita PET,modelos-3d/stl/suporte-carretel-fita-pet.stl,1,Suporte do carretel que armazena/alimenta a fita PET antes da extrusao.
+9,Espacador largo,modelos-3d/stl/espacador-largo.stl,1,Espacador maior para alinhamento do conjunto.

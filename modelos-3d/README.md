@@ -14,16 +14,20 @@ fixacao, tracao e bobinamento do equipamento.
 
 ## Lista de pecas impressas
 
-| Nº | Peca | Quantidade | Observacao |
-| ---: | --- | ---: | --- |
-| 1 | Suporte do motor NEMA | 1x | Suporte estrutural para fixacao do motor NEMA. |
-| 2 | Trava do filamento | 1x | Peca de apoio/travamento do caminho do material. |
-| 3 | Engrenagem do motor | 1x | Peca em cinza impressa com PET reciclado apos quebras nas primeiras versoes em PLA. |
-| 4 | Arruelas adaptadoras | 2x | Arruelas para ajuste e adaptacao mecanica do conjunto. |
-| 5 | Engrenagem do carretel | 1x | Engrenagem grande do sistema de movimentacao do carretel. |
-| 6 | Espacador fino | 1x | Espacador para alinhamento do conjunto. |
-| 7 | Suporte do carretel | 2x | Suportes estruturais para o carretel de bobinamento. |
-| 8 | Espacador largo | 1x | Espacador maior para alinhamento do conjunto. |
+Os arquivos STL ficam todos juntos em [`stl/`](stl/) para facilitar o download e
+a impressao das pecas.
+
+| Nº | Peca | Arquivo STL | Quantidade | Observacao |
+| ---: | --- | --- | ---: | --- |
+| 1 | Suporte do motor NEMA | [`stl/suporte-motor-nema17.stl`](stl/suporte-motor-nema17.stl) | 1x | Suporte estrutural para fixacao do motor NEMA. |
+| 2 | Trava do filamento | [`stl/trava-filamento.stl`](stl/trava-filamento.stl) | 1x | Peca de apoio/travamento do caminho do material. |
+| 3 | Engrenagem do motor NEMA 17 | [`stl/engrenagem-motor-nema17.stl`](stl/engrenagem-motor-nema17.stl) | 1x | Peca em cinza impressa com PET reciclado apos quebras nas primeiras versoes em PLA. |
+| 4 | Arruelas adaptadoras | [`stl/arruela-adaptadora.stl`](stl/arruela-adaptadora.stl) | 2x | Arruelas para ajuste e adaptacao mecanica do conjunto. |
+| 5 | Engrenagem do carretel | [`stl/engrenagem-carretel.stl`](stl/engrenagem-carretel.stl) | 1x | Engrenagem grande do sistema de movimentacao do carretel. |
+| 6 | Espacador fino | [`stl/espacador-fino.stl`](stl/espacador-fino.stl) | 1x | Espacador para alinhamento do conjunto. |
+| 7 | Suporte do carretel bobinador | [`stl/suporte-carretel-bobinador.stl`](stl/suporte-carretel-bobinador.stl) | 1x | Suporte estrutural do carretel que enrola o filamento produzido. |
+| 8 | Suporte do carretel da fita PET | [`stl/suporte-carretel-fita-pet.stl`](stl/suporte-carretel-fita-pet.stl) | 1x | Suporte do carretel que armazena/alimenta a fita PET antes da extrusao. |
+| 9 | Espacador largo | [`stl/espacador-largo.stl`](stl/espacador-largo.stl) | 1x | Espacador maior para alinhamento do conjunto. |
 
 ## Observacao sobre material
 
@@ -32,9 +36,9 @@ apresentaram quebras durante o funcionamento, entao o PET reciclado foi utilizad
 nas pecas que exigiam maior resistencia mecanica para suportar o esforco da
 maquina.
 
-## Arquivos esperados nesta pasta
+## Organizacao dos arquivos
 
-- `stl/`: arquivos prontos para impressao.
+- `stl/`: arquivos prontos para impressao, reunidos em uma unica pasta.
 - `fatiamento/`: arquivos `.3mf`, perfis ou configuracoes de slicer.
 - `imagens/`: capturas e pranchas explicativas das pecas.
 

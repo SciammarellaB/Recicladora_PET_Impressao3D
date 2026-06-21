@@ -145,8 +145,8 @@ A documentação desta etapa está em
 ## Peças impressas em 3D
 
 As peças estruturais e mecânicas da recicladora foram modeladas no Tinkercad e
-impressas em 3D. Elas incluem suporte do motor, suporte do carretel, engrenagens,
-arruelas adaptadoras e espaçadores.
+impressas em 3D. Elas incluem suporte do motor, suportes dos carretéis,
+engrenagens, arruelas adaptadoras e espaçadores.
 
 ![Visão geral das peças no Tinkercad](modelos-3d/imagens/visao-geral-pecas-tinkercad.png)
 
