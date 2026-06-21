@@ -156,9 +156,8 @@ Algumas peças foram posteriormente impressas com PET reciclado, pois versões
 iniciais em PLA apresentaram quebras durante o funcionamento. O PET reciclado foi
 usado nas peças que exigiam maior resistência mecânica.
 
-A documentação das peças está em [modelos-3d](modelos-3d/). A tabela editável
-com nomes e quantidades está em
-[dados/tabelas/pecas-impressas-3d.csv](dados/tabelas/pecas-impressas-3d.csv).
+A documentação das peças está em [modelos-3d](modelos-3d/), incluindo a tabela
+com nomes, quantidades e links para os arquivos STL.
 
 Os registros de aplicação do PET reciclado estão organizados em
 [pecas-impressas/testes](pecas-impressas/testes/),
