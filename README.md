@@ -22,6 +22,7 @@ FDM.
 - [Controle por G-code](#controle-por-g-code)
 - [Anexos e referências](#anexos-e-referências)
 - [Estrutura do repositório](#estrutura-do-repositório)
+- [Licença](#licença)
 - [Observações técnicas](#observações-técnicas)
 
 ## Sobre o projeto
@@ -282,6 +283,18 @@ As referências bibliográficas usadas como base teórica e técnica estão em
 ├── dados/
 └── anexos/
 ```
+
+## Licença
+
+Este projeto está licenciado sob a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](LICENSE)
+(CC BY-NC-SA 4.0).
+
+O material pode ser acessado, copiado, compartilhado e adaptado para fins não
+comerciais, desde que seja dado o devido crédito ao autor e que trabalhos
+derivados sejam distribuídos sob a mesma licença ou uma licença compatível.
+
+Uso comercial não é permitido sem autorização prévia do autor.
 
 ## Observações técnicas
 
