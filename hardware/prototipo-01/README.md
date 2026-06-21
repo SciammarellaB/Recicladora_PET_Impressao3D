@@ -33,20 +33,22 @@ e deixar o equipamento trabalhar ate o fim da extrusao/bobinamento.
 - Motor de passo NEMA 17.
 - Engrenagem do motor para transmissao de movimento ao carretel.
 - Suportes metalicos e pecas impressas em 3D para fixacao.
-- Display LCD reaproveitado da Ender 3 Pro.
-- Placa principal e eletronica reaproveitadas da Ender 3 Pro.
-- Fonte reaproveitada para alimentacao do conjunto.
+- Display LCD compativel com RAMPS.
+- Placa controladora RAMPS 1.4 com Arduino Mega.
+- Fonte ATX reaproveitada de computador para alimentacao do conjunto.
 
 ## Funcao desta versao
 
 O objetivo do prototipo 01 foi validar a montagem fisica do sistema de
-bobinamento e o reaproveitamento da eletronica original da Ender 3 Pro. A partir
+bobinamento usando eletronica baseada em RAMPS 1.4 com Arduino Mega. A partir
 dessa versao, foi possivel testar o acionamento do motor, o alinhamento do
 carretel, a transmissao por engrenagens e a operacao por G-code.
 
 ## Observacoes de projeto
 
-- A placa principal e o firmware permanecem originais da Ender 3 Pro.
+- A eletronica desta etapa ainda usava RAMPS 1.4 com Arduino Mega e LCD
+  compativel com RAMPS.
+- A placa e o LCD da Creality/Ender 3 Pro ainda nao faziam parte desta versao.
 - Os parametros de operacao sao ajustados temporariamente nos arquivos G-code.
 - A base de madeira facilitou ajustes de posicao, fixacao e alinhamento durante
   a prototipagem.

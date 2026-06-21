@@ -53,14 +53,3 @@ controle eletronico e bobinamento.
 Essa versao tambem ajuda a documentar a continuidade do desenvolvimento do
 projeto, mostrando que a recicladora passou por iteracoes de montagem e ajuste
 apos o primeiro prototipo.
-
-## Pontos para complementar
-
-Ainda podem ser registrados nesta pasta:
-
-1. O que mudou em relacao ao prototipo 01.
-2. Quais problemas do prototipo 01 motivaram essa nova montagem.
-3. Quais pecas foram mantidas, substituidas ou reposicionadas.
-4. Se houve melhoria no alinhamento, estabilidade, seguranca ou qualidade do
-   filamento.
-5. Quais testes foram realizados especificamente com o prototipo 02.
