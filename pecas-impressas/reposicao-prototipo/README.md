@@ -10,9 +10,11 @@ fabricar novas versoes das pecas.
 
 ## Exemplo documentado
 
-| Peca | Motivo da substituicao | Material usado na reposicao |
-| --- | --- | --- |
-| Engrenagem do motor NEMA 17 | Quebra ou desgaste durante o funcionamento do prototipo | PET reciclado produzido no projeto |
+| Peca | Foto | Motivo da substituicao | Material usado na reposicao |
+| --- | --- | --- | --- |
+| Engrenagem do motor NEMA 17 | [`fotos/engrenagem-motor-nema17-pet-reciclado.jpg`](fotos/engrenagem-motor-nema17-pet-reciclado.jpg) | Quebra ou desgaste durante o funcionamento do prototipo | PET reciclado produzido no projeto |
+
+![Engrenagem do motor NEMA 17 impressa com PET reciclado](fotos/engrenagem-motor-nema17-pet-reciclado.jpg)
 
 ## Relevancia
 
