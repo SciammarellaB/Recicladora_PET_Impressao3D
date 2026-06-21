@@ -9,11 +9,17 @@ auxiliares.
 
 ## Exemplos documentados na monografia
 
-| Peca | Finalidade |
-| --- | --- |
-| Gancho em formato de S | Teste de aplicacao domestica para pendurar mochila, sacolas e outros itens. |
-| Engrenagens para eixo planetario | Teste mecanico com geometrias funcionais. |
-| Conjunto de engrenagens planetario | Avaliacao de montagem e funcionamento em conjunto mecanico. |
+| Peca | Foto | Finalidade |
+| --- | --- | --- |
+| Gancho em formato de S | [`fotos/gancho-s-pet-reciclado.jpg`](fotos/gancho-s-pet-reciclado.jpg) | Teste de aplicacao domestica para pendurar mochila, sacolas e outros itens. |
+| Engrenagens para eixo planetario | [`fotos/engrenagens-pet-reciclado.jpg`](fotos/engrenagens-pet-reciclado.jpg) | Teste mecanico com geometrias funcionais. |
+| Conjunto de engrenagens planetario | [`fotos/conjunto-engrenagens-planetario-pet-reciclado.jpg`](fotos/conjunto-engrenagens-planetario-pet-reciclado.jpg) | Avaliacao de montagem e funcionamento em conjunto mecanico. |
+
+![Gancho em formato de S impresso com PET reciclado](fotos/gancho-s-pet-reciclado.jpg)
+
+![Engrenagens impressas com PET reciclado](fotos/engrenagens-pet-reciclado.jpg)
+
+![Conjunto de engrenagens planetario impresso com PET reciclado](fotos/conjunto-engrenagens-planetario-pet-reciclado.jpg)
 
 ## Pontos avaliados
 
