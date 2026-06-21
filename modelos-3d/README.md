@@ -39,7 +39,6 @@ maquina.
 ## Organizacao dos arquivos
 
 - `stl/`: arquivos prontos para impressao, reunidos em uma unica pasta.
-- `fatiamento/`: arquivos `.3mf`, perfis ou configuracoes de slicer.
 - `imagens/`: capturas e pranchas explicativas das pecas.
 
 ## Observacao sobre arquivos editaveis

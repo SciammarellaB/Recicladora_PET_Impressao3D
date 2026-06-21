@@ -266,7 +266,6 @@ As referências bibliográficas usadas como base teórica e técnica estão em
 │   └── prototipo-02/
 ├── modelos-3d/
 │   ├── stl/
-│   ├── fatiamento/
 │   └── imagens/
 ├── codigo/
 │   ├── gcode/
