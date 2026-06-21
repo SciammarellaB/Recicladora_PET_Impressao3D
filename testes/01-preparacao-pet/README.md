@@ -32,6 +32,10 @@ residual acompanhe o material ate a etapa de extrusao.
 Com a garrafa limpa, sem rotulo e seca, o fundo e removido para permitir o encaixe
 correto na ferramenta de corte das tiras de PET.
 
+No projeto, o fatiamento da garrafa em tiras foi feito com o
+[Simple PET Bottle Cutter](https://makerworld.com/pt/models/98441-simple-pet-bottle-cutter#profileId-111492),
+disponivel no MakerWorld.
+
 ### Procedimento
 
 1. Posicionar a tesoura na base da garrafa.

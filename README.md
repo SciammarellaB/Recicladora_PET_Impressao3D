@@ -134,6 +134,10 @@ na ferramenta de corte das tiras de PET.
 
 ![Remoção do fundo da garrafa PET](testes/01-preparacao-pet/fotos/remocao-fundo-garrafa-pet.png)
 
+Para o fatiamento da garrafa em tiras, foi utilizado o projeto
+[Simple PET Bottle Cutter](https://makerworld.com/pt/models/98441-simple-pet-bottle-cutter#profileId-111492),
+disponivel no MakerWorld.
+
 A documentação desta etapa está em
 [testes/01-preparacao-pet](testes/01-preparacao-pet/).
 
