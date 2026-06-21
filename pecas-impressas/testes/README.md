@@ -5,10 +5,14 @@ PET reciclado durante a impressao 3D.
 
 ## Modelos usados
 
-| Peca | Finalidade |
-| --- | --- |
-| Cubo XYZ | Avaliar dimensao, estabilidade de deposicao e coerencia geometrica. |
-| Benchy | Avaliar acabamento, temperatura, velocidade, fusao entre camadas e comportamento em geometrias variadas. |
+| Peca | Foto | Finalidade |
+| --- | --- | --- |
+| Cubo XYZ | [`fotos/cubo-xyz-pet-reciclado.jpg`](fotos/cubo-xyz-pet-reciclado.jpg) | Avaliar dimensao, estabilidade de deposicao e coerencia geometrica. |
+| Benchy | [`fotos/benchy-pet-reciclado.jpg`](fotos/benchy-pet-reciclado.jpg) | Avaliar acabamento, temperatura, velocidade, fusao entre camadas e comportamento em geometrias variadas. |
+
+![Cubo XYZ impresso com PET reciclado](fotos/cubo-xyz-pet-reciclado.jpg)
+
+![Benchy impresso com PET reciclado](fotos/benchy-pet-reciclado.jpg)
 
 ## Criterios observados
 
