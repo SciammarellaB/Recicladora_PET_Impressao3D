@@ -15,6 +15,7 @@ auxiliares.
 | Engrenagens para eixo planetario | [`fotos/engrenagens-pet-reciclado.jpg`](fotos/engrenagens-pet-reciclado.jpg) | Teste mecanico com geometrias funcionais. |
 | Conjunto de engrenagens planetario | [`fotos/conjunto-engrenagens-planetario-pet-reciclado.jpg`](fotos/conjunto-engrenagens-planetario-pet-reciclado.jpg) | Avaliacao de montagem e funcionamento em conjunto mecanico. |
 | Suporte do switch da fita PET | [`fotos/suporte-switch-fita-pet-montado-01.jpg`](fotos/suporte-switch-fita-pet-montado-01.jpg) | Suporte para montagem do switch usado no caminho da fita PET. |
+| Suporte do carretel da fita PET | [`fotos/suporte-carretel-fita-pet-01.jpg`](fotos/suporte-carretel-fita-pet-01.jpg) | Suporte para o carretel que armazena e alimenta a fita PET. |
 
 ![Gancho em formato de S impresso com PET reciclado](fotos/gancho-s-pet-reciclado.jpg)
 
@@ -35,6 +36,16 @@ auxiliares.
 ![Suporte do switch da fita PET montado](fotos/suporte-switch-fita-pet-montado-01.jpg)
 
 ![Suporte do switch da fita PET montado em outro angulo](fotos/suporte-switch-fita-pet-montado-02.jpg)
+
+## Suporte do carretel da fita PET
+
+[![Suporte do carretel da fita PET](fotos/suporte-carretel-fita-pet-01.jpg)](https://youtu.be/MDmy_xOUEg0)
+
+[Assistir no YouTube](https://youtu.be/MDmy_xOUEg0)
+
+![Suporte do carretel da fita PET em vista frontal](fotos/suporte-carretel-fita-pet-01.jpg)
+
+![Suporte do carretel da fita PET em vista lateral](fotos/suporte-carretel-fita-pet-02.jpg)
 
 ## Pontos avaliados
 
