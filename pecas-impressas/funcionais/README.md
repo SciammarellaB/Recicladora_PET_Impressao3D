@@ -25,9 +25,11 @@ auxiliares.
 
 ## Suporte do switch da fita PET
 
-[![Impressao do suporte do switch da fita PET](fotos/suporte-switch-fita-pet-video-thumb.jpg)](https://youtu.be/djwcRPlRVBY)
+<a href="https://youtu.be/djwcRPlRVBY" target="_blank" rel="noopener noreferrer">
+  <img src="fotos/suporte-switch-fita-pet-video-thumb.jpg" alt="Impressao do suporte do switch da fita PET">
+</a>
 
-[Assistir no YouTube](https://youtu.be/djwcRPlRVBY)
+<a href="https://youtu.be/djwcRPlRVBY" target="_blank" rel="noopener noreferrer">Assistir no YouTube</a>
 
 ![Suporte do switch da fita PET impresso](fotos/suporte-switch-fita-pet-impresso-01.jpg)
 
@@ -39,9 +41,11 @@ auxiliares.
 
 ## Suporte do carretel da fita PET
 
-[![Suporte do carretel da fita PET](fotos/suporte-carretel-fita-pet-01.jpg)](https://youtu.be/MDmy_xOUEg0)
+<a href="https://youtu.be/MDmy_xOUEg0" target="_blank" rel="noopener noreferrer">
+  <img src="fotos/suporte-carretel-fita-pet-01.jpg" alt="Suporte do carretel da fita PET">
+</a>
 
-[Assistir no YouTube](https://youtu.be/MDmy_xOUEg0)
+<a href="https://youtu.be/MDmy_xOUEg0" target="_blank" rel="noopener noreferrer">Assistir no YouTube</a>
 
 ![Suporte do carretel da fita PET em vista frontal](fotos/suporte-carretel-fita-pet-01.jpg)
 

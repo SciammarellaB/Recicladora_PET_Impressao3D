@@ -19,7 +19,7 @@ um sistema de carretel adaptado para bobinar o filamento produzido.
 
 ![Prototipo 01 funcionando corretamente](../../midia-readme/thumb-prototipo-01-funcionando.png)
 
-[Assistir no YouTube](https://youtube.com/shorts/Gr8xRWNqr9U)
+<a href="https://youtube.com/shorts/Gr8xRWNqr9U" target="_blank" rel="noopener noreferrer">Assistir no YouTube</a>
 
 Neste registro, o prototipo 01 ja estava operando de forma estavel. A recicladora
 conseguia executar o processo normalmente: iniciar o G-code, aguardar o aquecimento

@@ -116,13 +116,13 @@ Mais fotos e detalhes estão em [hardware/prototipo-02](hardware/prototipo-02/).
 
 | Vídeo | Referência no projeto | YouTube |
 | --- | --- | --- |
-| Protótipo 01 funcionando corretamente | [Protótipo 01](hardware/prototipo-01/#video-de-funcionamento) | [Assistir](https://youtube.com/shorts/Gr8xRWNqr9U) |
-| Protótipo 02 - teste do motor e carretel | [Teste de montagem](hardware/prototipo-02/#teste-de-montagem) | [Assistir](https://youtube.com/shorts/MNewDyZXh2g) |
-| Protótipo 02 funcionando corretamente | [Funcionamento correto](hardware/prototipo-02/#funcionamento-correto) | [Assistir](https://www.youtube.com/watch?v=FplmZ49YgME) |
-| Primeira impressão com filamento PET reciclado | [Primeiro teste de impressão](testes/03-impressao-3d/#primeiro-teste-de-impressão) | [Assistir](https://www.youtube.com/shorts/xxXg9N6lQYA) |
-| Benchy com PET de garrafa colorida | [Teste com PET colorido](testes/03-impressao-3d/#teste-com-pet-colorido) | [Assistir](https://www.youtube.com/watch?v=Nncd09i17XM) |
-| Impressão do suporte do switch da fita PET | [Peças funcionais](pecas-impressas/funcionais/#suporte-do-switch-da-fita-pet) | [Assistir](https://youtu.be/djwcRPlRVBY) |
-| Suporte do carretel da fita PET | [Peças funcionais](pecas-impressas/funcionais/#suporte-do-carretel-da-fita-pet) | [Assistir](https://youtu.be/MDmy_xOUEg0) |
+| Protótipo 01 funcionando corretamente | [Protótipo 01](hardware/prototipo-01/#video-de-funcionamento) | <a href="https://youtube.com/shorts/Gr8xRWNqr9U" target="_blank" rel="noopener noreferrer">Assistir</a> |
+| Protótipo 02 - teste do motor e carretel | [Teste de montagem](hardware/prototipo-02/#teste-de-montagem) | <a href="https://youtube.com/shorts/MNewDyZXh2g" target="_blank" rel="noopener noreferrer">Assistir</a> |
+| Protótipo 02 funcionando corretamente | [Funcionamento correto](hardware/prototipo-02/#funcionamento-correto) | <a href="https://www.youtube.com/watch?v=FplmZ49YgME" target="_blank" rel="noopener noreferrer">Assistir</a> |
+| Primeira impressão com filamento PET reciclado | [Primeiro teste de impressão](testes/03-impressao-3d/#primeiro-teste-de-impressão) | <a href="https://www.youtube.com/shorts/xxXg9N6lQYA" target="_blank" rel="noopener noreferrer">Assistir</a> |
+| Benchy com PET de garrafa colorida | [Teste com PET colorido](testes/03-impressao-3d/#teste-com-pet-colorido) | <a href="https://www.youtube.com/watch?v=Nncd09i17XM" target="_blank" rel="noopener noreferrer">Assistir</a> |
+| Impressão do suporte do switch da fita PET | [Peças funcionais](pecas-impressas/funcionais/#suporte-do-switch-da-fita-pet) | <a href="https://youtu.be/djwcRPlRVBY" target="_blank" rel="noopener noreferrer">Assistir</a> |
+| Suporte do carretel da fita PET | [Peças funcionais](pecas-impressas/funcionais/#suporte-do-carretel-da-fita-pet) | <a href="https://youtu.be/MDmy_xOUEg0" target="_blank" rel="noopener noreferrer">Assistir</a> |
 
 ## Preparação do PET
 
