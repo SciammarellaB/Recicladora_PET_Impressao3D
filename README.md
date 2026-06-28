@@ -9,6 +9,7 @@ FDM.
 ## Índice
 
 - [Sobre o projeto](#sobre-o-projeto)
+- [Demonstração de funcionamento](#demonstração-de-funcionamento)
 - [Motivação](#motivação)
 - [Prova de conceito manual](#prova-de-conceito-manual)
 - [Como o processo funciona](#como-o-processo-funciona)
@@ -36,6 +37,14 @@ completo e acessível: sair de um resíduo cotidiano e chegar a uma peça impres
 funcional. Para isso, o projeto reúne modelagem 3D, reaproveitamento de
 componentes de impressora, eletrônica, controle por G-code, testes de extrusão e
 ajustes de impressão.
+
+## Demonstração de funcionamento
+
+O vídeo abaixo mostra o equipamento em operação, com a fita PET sendo alimentada
+na recicladora, o acionamento do sistema e o início da transformação da fita em
+filamento para impressão 3D.
+
+<a href="https://www.youtube.com/shorts/rl4tyrrVXBk" target="_blank" rel="noopener noreferrer">Assistir à demonstração no YouTube</a>
 
 ## Motivação
 
@@ -119,6 +128,7 @@ Mais fotos e detalhes estão em [hardware/prototipo-02](hardware/prototipo-02/).
 | Protótipo 01 funcionando corretamente | [Protótipo 01](hardware/prototipo-01/#video-de-funcionamento) | <a href="https://youtube.com/shorts/Gr8xRWNqr9U" target="_blank" rel="noopener noreferrer">Assistir</a> |
 | Protótipo 02 - teste do motor e carretel | [Teste de montagem](hardware/prototipo-02/#teste-de-montagem) | <a href="https://youtube.com/shorts/MNewDyZXh2g" target="_blank" rel="noopener noreferrer">Assistir</a> |
 | Protótipo 02 funcionando corretamente | [Funcionamento correto](hardware/prototipo-02/#funcionamento-correto) | <a href="https://www.youtube.com/watch?v=FplmZ49YgME" target="_blank" rel="noopener noreferrer">Assistir</a> |
+| Processo de transformação da fita PET em filamento | [Extrusão e controle dimensional](testes/02-extrusao/) | <a href="https://www.youtube.com/shorts/rl4tyrrVXBk" target="_blank" rel="noopener noreferrer">Assistir</a> |
 | Primeira impressão com filamento PET reciclado | [Primeiro teste de impressão](testes/03-impressao-3d/#primeiro-teste-de-impressão) | <a href="https://www.youtube.com/shorts/xxXg9N6lQYA" target="_blank" rel="noopener noreferrer">Assistir</a> |
 | Benchy com PET de garrafa colorida | [Teste com PET colorido](testes/03-impressao-3d/#teste-com-pet-colorido) | <a href="https://www.youtube.com/watch?v=Nncd09i17XM" target="_blank" rel="noopener noreferrer">Assistir</a> |
 | Impressão do suporte do switch da fita PET | [Peças funcionais](pecas-impressas/funcionais/#suporte-do-switch-da-fita-pet) | <a href="https://youtu.be/djwcRPlRVBY" target="_blank" rel="noopener noreferrer">Assistir</a> |
