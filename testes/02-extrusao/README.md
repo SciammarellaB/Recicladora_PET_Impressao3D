@@ -16,6 +16,8 @@ diametro nominal de 1,75 mm.
 5. Deixar o filamento estabilizar por resfriamento em temperatura ambiente.
 6. Medir o diametro em diferentes pontos usando paquimetro.
 
+![Fita PET cortada e enrolada](fotos/fita-pet-cortada-enrolada.jpg)
+
 ## Temperatura de extrusao
 
 Durante os testes, a temperatura do bico variou entre 230 °C e 240 °C.
@@ -39,11 +41,19 @@ A tolerancia usada como referencia foi de aproximadamente ±0,07 mm em torno do
 diametro nominal, seguindo a faixa usualmente adotada em filamentos comerciais e
 em trabalhos correlatos sobre reciclagem de PET para impressao 3D.
 
+![Medicao do filamento PET com paquimetro](fotos/medicao-filamento-pet-paquimetro-01.jpg)
+
+![Segunda medicao do filamento PET com paquimetro](fotos/medicao-filamento-pet-paquimetro-02.jpg)
+
 ## Caracteristica do filamento produzido
 
 O filamento gerado a partir da fita PET nao fica macico como um filamento
 industrial. Durante a passagem pelo hotend, a fita amolece, dobra e fecha sobre
 si mesma, formando uma estrutura semelhante a um tubo fino.
+
+![Secao lateral do filamento PET produzido](fotos/filamento-pet-secao-lateral.jpg)
+
+![Secao frontal do filamento PET produzido](fotos/filamento-pet-secao-frontal.jpg)
 
 Essa caracteristica explica parte dos ajustes necessarios na etapa de impressao,
 principalmente o aumento de fluxo e a reducao da velocidade volumetrica maxima no

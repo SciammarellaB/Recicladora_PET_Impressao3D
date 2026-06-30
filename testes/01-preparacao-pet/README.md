@@ -4,6 +4,13 @@ Esta etapa documenta o preparo das garrafas PET pos-consumo antes do corte em
 tiras. A preparacao correta reduz contaminacoes, melhora a regularidade do corte
 e evita que sujeira, cola ou umidade prejudiquem a extrusao do material.
 
+## Video do processo
+
+O video mostra a preparacao da garrafa PET, o corte inicial, o fatiamento em
+tiras e o enrolamento da fita no carretel para uso posterior na recicladora.
+
+<a href="https://www.youtube.com/shorts/VywLTE21x4Y" target="_blank" rel="noopener noreferrer">Assistir ao video no YouTube</a>
+
 ## Limpeza e remocao do rotulo
 
 ![Limpeza e remocao do rotulo da garrafa PET](fotos/limpeza-remocao-rotulo-garrafa-pet.png)

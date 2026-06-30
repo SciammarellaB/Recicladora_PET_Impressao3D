@@ -128,6 +128,7 @@ Mais fotos e detalhes estão em [hardware/prototipo-02](hardware/prototipo-02/).
 | Protótipo 01 funcionando corretamente | [Protótipo 01](hardware/prototipo-01/#video-de-funcionamento) | <a href="https://youtube.com/shorts/Gr8xRWNqr9U" target="_blank" rel="noopener noreferrer">Assistir</a> |
 | Protótipo 02 - teste do motor e carretel | [Teste de montagem](hardware/prototipo-02/#teste-de-montagem) | <a href="https://youtube.com/shorts/MNewDyZXh2g" target="_blank" rel="noopener noreferrer">Assistir</a> |
 | Protótipo 02 funcionando corretamente | [Funcionamento correto](hardware/prototipo-02/#funcionamento-correto) | <a href="https://www.youtube.com/watch?v=FplmZ49YgME" target="_blank" rel="noopener noreferrer">Assistir</a> |
+| Preparação da garrafa PET para fatiamento | [Preparação do PET](testes/01-preparacao-pet/) | <a href="https://www.youtube.com/shorts/VywLTE21x4Y" target="_blank" rel="noopener noreferrer">Assistir</a> |
 | Processo de transformação da fita PET em filamento | [Extrusão e controle dimensional](testes/02-extrusao/) | <a href="https://www.youtube.com/shorts/rl4tyrrVXBk" target="_blank" rel="noopener noreferrer">Assistir</a> |
 | Primeira impressão com filamento PET reciclado | [Primeiro teste de impressão](testes/03-impressao-3d/#primeiro-teste-de-impressão) | <a href="https://www.youtube.com/shorts/xxXg9N6lQYA" target="_blank" rel="noopener noreferrer">Assistir</a> |
 | Benchy com PET de garrafa colorida | [Teste com PET colorido](testes/03-impressao-3d/#teste-com-pet-colorido) | <a href="https://www.youtube.com/watch?v=Nncd09i17XM" target="_blank" rel="noopener noreferrer">Assistir</a> |
@@ -150,6 +151,11 @@ na ferramenta de corte das tiras de PET.
 Para o fatiamento da garrafa em tiras, foi utilizado o projeto
 [Simple PET Bottle Cutter](https://makerworld.com/pt/models/98441-simple-pet-bottle-cutter#profileId-111492),
 disponivel no MakerWorld.
+
+O vídeo de preparação mostra a limpeza inicial, o corte da garrafa, o fatiamento
+do PET em tiras e o enrolamento da fita no carretel.
+
+<a href="https://www.youtube.com/shorts/VywLTE21x4Y" target="_blank" rel="noopener noreferrer">Assistir à preparação da garrafa PET no YouTube</a>
 
 A documentação desta etapa está em
 [testes/01-preparacao-pet](testes/01-preparacao-pet/).

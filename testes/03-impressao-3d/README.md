@@ -24,6 +24,13 @@ impressão 3D. O teste serviu para observar:
 - se seria necessário ajustar fluxo, velocidade ou temperatura;
 - quais problemas apareceriam durante a primeira tentativa de impressão.
 
+Algumas peças foram impressas para observar o comportamento do material em
+geometrias simples, curvas, engrenagens e peças funcionais.
+
+![Gancho em formato de S impresso com PET reciclado](fotos/gancho-s-pet-reciclado.jpg)
+
+![Engrenagens impressas com PET reciclado](fotos/engrenagens-pet-reciclado.jpg)
+
 ## Pontos avaliados
 
 Durante os testes de impressão, os principais pontos de atenção foram:
@@ -51,6 +58,19 @@ garrafa causaria alguma diferença perceptível no comportamento do filamento.
 Durante esse tipo de teste, os pontos de comparação incluem acabamento visual,
 transparência/translucidez, aderência entre camadas, estabilidade da extrusão e
 regularidade do material depositado.
+
+![Benchy impresso com PET de garrafa colorida](fotos/benchy-pet-garrafa-colorida.jpg)
+
+![Cubo XYZ impresso com PET de garrafa colorida](fotos/cubo-xyz-pet-garrafa-colorida.jpg)
+
+## Peças funcionais
+
+Além das peças de teste, o filamento reciclado foi usado em peças funcionais do
+proprio projeto, como suportes e componentes auxiliares da recicladora.
+
+![Suporte do carretel da fita PET impresso com PET reciclado](fotos/suporte-carretel-fita-pet-impresso.jpg)
+
+![Suporte do switch da fita PET montado](fotos/suporte-switch-fita-pet-montado.jpg)
 
 ## Relação com os parâmetros de impressão
 
